@@ -12,3 +12,11 @@ We were able to perform Constraint-based modelling techniques such as Flux Balan
 
 # Results
 The final results can be seen below: 
+* Variation in fluxes between Wildtype simulation and HC23 simulation.
+![](Images/HC23_Flux_Variability.png)
+* Pathway layout obtained from the Flux Balance Analysis performed on the Wildtype simulation.
+![](Images/Wildtype_pathway.png)
+* Comparison of Biomass yield between the different approaches.
+![](Images/Biomass.png)
+* Comparison of Ethanol yield between the different approaches.
+![](Images/Ethanol.png)
